@@ -119,7 +119,7 @@ The defensive counterpart — catches the traffic clawsh and other C2 frameworks
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=y0uall&theme=chartreuse_dark" alt="GitHub stats">
-<img src="https://streak-stats.demolab.com?user=y0uall&background=000000&ring=9fef00&fire=9fef00&currStreakLabel=9fef00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&border=30363d" alt="GitHub streak">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=y0uall&theme=chartreuse_dark" alt="Top languages by commit">
 </p>
 
 <p align="center">
