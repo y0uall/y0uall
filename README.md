@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="banner.png" width="100%">
-
 <br><br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=9FEF00&center=true&vCenter=true&width=750&lines=Rust+developer.+Offensive+security.+Linux+internals.;I+build+the+tools+that+break+things+%E2%80%94;%E2%80%94+and+the+tools+that+catch+them.;HTB+Team:+shellm4t3s" alt="Typing SVG"></a>
