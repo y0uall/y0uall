@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="banner.jpg" width="700">
+<img src="banner.png" width="100%">
 
 <br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=9FEF00&center=true&vCenter=true&width=650&lines=Rust+developer.+Offensive+security.+Linux+internals.;I+build+the+tools+that+break+things+%E2%80%94;%E2%80%94+and+the+tools+that+catch+them.;HTB+Team:+shellm4t3s" alt="Typing SVG"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=9FEF00&center=true&vCenter=true&width=750&lines=Rust+developer.+Offensive+security.+Linux+internals.;I+build+the+tools+that+break+things+%E2%80%94;%E2%80%94+and+the+tools+that+catch+them.;HTB+Team:+shellm4t3s" alt="Typing SVG"></a>
 
 <br>
 
@@ -101,21 +101,6 @@ The defensive counterpart — catches the traffic clawsh and other C2 frameworks
 
 ---
 
-### Crypto Stack
-
-```
-┌─────────────────────────────────────────────────────┐
-│  Transport    TLS 1.3 (rustls)           optional   │
-│  Key Exchange X25519 ECDH                ephemeral  │
-│  Key Derive   HKDF-SHA256               per-session │
-│  Encryption   ChaCha20-Poly1305          every msg  │
-│  Auth         HMAC-SHA256 (PSK)          handshake  │
-│  Padding      256 byte minimum           all frames │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
 ### Tech
 
 <p align="center">
@@ -133,8 +118,8 @@ The defensive counterpart — catches the traffic clawsh and other C2 frameworks
 </p>
 
 <p align="center">
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=y0uall&theme=chartreuse_dark" alt="GitHub stats">
-<img height="165" src="https://streak-stats.demolab.com?user=y0uall&background=000000&ring=9fef00&fire=9fef00&currStreakLabel=9fef00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&border=30363d" alt="GitHub streak">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=y0uall&theme=chartreuse_dark" alt="GitHub stats">
+<img src="https://streak-stats.demolab.com?user=y0uall&background=000000&ring=9fef00&fire=9fef00&currStreakLabel=9fef00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&border=30363d" alt="GitHub streak">
 </p>
 
 <p align="center">
