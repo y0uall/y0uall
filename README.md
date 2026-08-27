@@ -2,9 +2,11 @@
 
 <img src="banner.jpg" width="700">
 
-<br>
+<br><br>
 
-**Rust developer. Offensive security. Linux internals.**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=9FEF00&center=true&vCenter=true&width=650&lines=Rust+developer.+Offensive+security.+Linux+internals.;I+build+the+tools+that+break+things+%E2%80%94;%E2%80%94+and+the+tools+that+catch+them.;HTB+Team:+shellm4t3s" alt="Typing SVG"></a>
+
+<br>
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/50343)
 [![shellm4t3s](https://img.shields.io/badge/HTB_Team-shellm4t3s-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/teams/8499)
@@ -117,16 +119,36 @@ The defensive counterpart — catches the traffic clawsh and other C2 frameworks
 ### Tech
 
 <p align="center">
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/tokio-async_runtime-blue?style=for-the-badge">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=rust,linux,bash,python,windows,git,docker,vim&theme=dark">
+</a>
+</p>
+
+---
+
+### Stats
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y0uall&theme=chartreuse_dark" alt="Profile details">
+</p>
+
+<p align="center">
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=y0uall&theme=chartreuse_dark" alt="GitHub stats">
+<img height="165" src="https://streak-stats.demolab.com?user=y0uall&background=000000&ring=9fef00&fire=9fef00&currStreakLabel=9fef00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&border=30363d" alt="GitHub streak">
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/y0uall/y0uall/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/y0uall/y0uall/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/y0uall/y0uall/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
 
 ---
 
 <div align="center">
 <sub>I build the tools that break things — and the tools that catch them.</sub>
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=y0uall&color=9fef00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
 </div>
