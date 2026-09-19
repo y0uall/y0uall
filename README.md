@@ -103,22 +103,13 @@ The defensive counterpart — catches the traffic clawsh and other C2 frameworks
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=rust,linux,bash,python,windows,git,docker,vim&theme=dark">
+<img src="https://skillicons.dev/icons?i=rust,linux,bash,python,git,docker,vim&theme=dark">
 </a>
 </p>
 
 ---
 
 ### Stats
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y0uall&theme=chartreuse_dark" alt="Profile details">
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=y0uall&theme=chartreuse_dark" alt="GitHub stats">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=y0uall&theme=chartreuse_dark" alt="Top languages by commit">
-</p>
 
 <p align="center">
 <picture>
